@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\bin\Debug\TrackBarKontrola.exe.config
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\bin\Debug\TrackBarKontrola.exe
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\bin\Debug\TrackBarKontrola.pdb
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.Form1.resources
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.exe
+C:\Users\Korisnik\source\repos\TrackBarKontrola\TrackBarKontrola\obj\Debug\TrackBarKontrola.pdb
